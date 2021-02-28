@@ -38,6 +38,27 @@ p {
             justify-content: center;
 }
 
+
+.techlist{
+    display: flex;
+    flex-wrap: wrap;
+}
+.techlist p{
+    margin:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 #home {
     padding-top: 5.5em;
 }
